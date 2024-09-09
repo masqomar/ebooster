@@ -130,7 +130,64 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body p-24">
-                <p>hjashkashkjlk </p>
+            <h1>Syarat dan Ketentuan Program Afiliasi Kampung Inggris Booster</h1>
+
+<h2>1. Definisi</h2>
+<ul>
+    <li><strong>Program Afiliasi:</strong> Sebuah program di mana afiliasi mempromosikan kursus bahasa Inggris Kampung Inggris Booster dan mendapatkan komisi berdasarkan hasil penjualan atau pendaftaran yang dilakukan melalui link afiliasi mereka.</li>
+    <li><strong>Afiliasi:</strong> Individu atau entitas yang terdaftar dalam Program Afiliasi Kampung Inggris Booster dan memiliki hak untuk mempromosikan kursus yang kami tawarkan.</li>
+</ul>
+
+<h2>2. Pendaftaran dan Kualifikasi</h2>
+<ul>
+    <li><strong>Pendaftaran:</strong> Untuk menjadi afiliasi, Anda harus mendaftar melalui formulir pendaftaran resmi Kampung Inggris Booster.</li>
+    <li><strong>Kualifikasi:</strong> Pendaftar harus berusia minimal 18 tahun dan memiliki akun media sosial atau platform online yang aktif untuk mempromosikan kursus kami.</li>
+    <li><strong>Persetujuan:</strong> Pendaftaran Anda akan disetujui berdasarkan penilaian Kampung Inggris Booster dan keputusan kami bersifat final.</li>
+</ul>
+
+<h2>3. Tugas Afiliasi</h2>
+<ul>
+    <li><strong>Promosi:</strong> Afiliasi wajib mempromosikan kursus dengan cara yang jujur dan etis melalui saluran yang disetujui, seperti blog, media sosial, atau situs web.</li>
+    <li><strong>Konten:</strong> Konten promosi harus sesuai dengan panduan dan materi yang disediakan oleh Kampung Inggris Booster.</li>
+    <li><strong>Larangan:</strong> Afiliasi dilarang menggunakan metode promosi yang menyesatkan, spam, atau berpotensi merusak reputasi Kampung Inggris Booster.</li>
+</ul>
+
+<h2>4. Komisi dan Pembayaran</h2>
+<ul>
+    <li><strong>Komisi:</strong> Afiliasi akan menerima komisi berdasarkan persentase dari biaya pendaftaran kursus yang dilakukan melalui link afiliasi mereka.</li>
+    <li><strong>Pembayaran:</strong> Pembayaran komisi dilakukan setiap bulan, dengan syarat saldo komisi mencapai batas minimum yang ditetapkan oleh Kampung Inggris Booster.</li>
+    <li><strong>Laporan:</strong> Afiliasi akan menerima laporan mengenai klik, pendaftaran, dan komisi mereka melalui panel afiliasi.</li>
+</ul>
+
+<h2>5. Tanggung Jawab dan Kewajiban</h2>
+<ul>
+    <li><strong>Akun Afiliasi:</strong> Afiliasi bertanggung jawab untuk menjaga keamanan akun afiliasi mereka dan tidak boleh membagikannya kepada pihak ketiga.</li>
+    <li><strong>Perubahan Data:</strong> Afiliasi harus memberitahukan Kampung Inggris Booster mengenai perubahan data kontak atau informasi rekening bank.</li>
+</ul>
+
+<h2>6. Penangguhan dan Penghentian</h2>
+<ul>
+    <li><strong>Penangguhan:</strong> Kampung Inggris Booster berhak menangguhkan atau menghentikan akun afiliasi jika ada pelanggaran terhadap syarat dan ketentuan ini.</li>
+    <li><strong>Penghentian:</strong> Afiliasi dapat menghentikan partisipasi mereka dalam program dengan memberikan pemberitahuan tertulis kepada Kampung Inggris Booster.</li>
+</ul>
+
+<h2>7. Hak Kekayaan Intelektual</h2>
+<ul>
+    <li><strong>Lisensi:</strong> Kampung Inggris Booster memberikan lisensi terbatas, non-eksklusif, dan tidak dapat dipindah-tangankan kepada afiliasi untuk menggunakan materi promosi yang disediakan.</li>
+    <li><strong>Hak Cipta:</strong> Semua hak cipta dan hak kekayaan intelektual lainnya yang terkait dengan materi promosi tetap menjadi milik Kampung Inggris Booster.</li>
+</ul>
+
+<h2>8. Perubahan Syarat dan Ketentuan</h2>
+<ul>
+    <li><strong>Perubahan:</strong> Kampung Inggris Booster berhak untuk mengubah syarat dan ketentuan ini sewaktu-waktu tanpa pemberitahuan sebelumnya.</li>
+    <li><strong>Pemberitahuan:</strong> Perubahan akan diinformasikan melalui email atau panel afiliasi, dan afiliasi dianggap menyetujui perubahan tersebut dengan melanjutkan partisipasi mereka.</li>
+</ul>
+
+<h2>9. Hukum yang Berlaku</h2>
+<ul>
+    <li><strong>Hukum:</strong> Syarat dan ketentuan ini diatur oleh hukum yang berlaku di negara Republik Indonesia.</li>
+    <li><strong>Sengketa:</strong> Setiap sengketa yang timbul dari program afiliasi ini akan diselesaikan melalui jalur hukum yang berlaku di Republik Indonesia.</li>
+</ul>
             </div>
         </div>
     </div>
